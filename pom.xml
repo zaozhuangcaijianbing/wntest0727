@@ -88,7 +88,7 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-all</artifactId>
-            <version>4.1.25.Final</version>
+            <version>4.1.42.Final</version>
         </dependency>
 
         <!--因为我们需要使用Scala代码，所以我们还需要加入scala-library依赖-->
